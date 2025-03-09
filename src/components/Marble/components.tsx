@@ -1,5 +1,4 @@
 import styled from '@emotion/styled'
-import { Paper } from '@mui/material'
 
 // border-image: url() top right bottom left <fill> <round>
 // https://developer.mozilla.org/en-US/docs/Web/CSS/border-image
