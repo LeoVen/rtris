@@ -1,2 +1,3 @@
-# rtris
-RTR Imperium Surrectum
+# RTR IS
+
+https://rtris.leoven.dev
